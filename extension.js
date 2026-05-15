@@ -1,11 +1,11 @@
 ({
-    name: "wx14",
+    name: "Wireless-X14",
     description: "WX14 receiver for MicroPython using machine.UART",
     author: "INEX / microBlock",
     category: "Device Control",
     version: "1.0.0",
     icon: "/static/icon.png",
-    color: "#8E44AD",
+    color: "#010101",
     blocks: [
         {
             xml: `
